@@ -58,6 +58,12 @@
 
 * [WinStartupManager/WinStartupManager.ring](https://github.com/MajdiSobain/WinStartupManager/blob/master/WinStartupManager.ring) — Windows Startup Manager
 
+* [ring/applications/videomusicplayer/AA-Video-Music-Player.ring](https://github.com/ring-lang/ring/blob/master/applications/videomusicplayer/AA-Video-Music-Player.ring) — Video Music Player
+
+* [ring/applications/cards/cards.ring](https://github.com/ring-lang/ring/blob/master/applications/cards/cards.ring) — The Cards Game
+
+* [ring/applications/tictactoe/TicTacToe.ring](https://github.com/ring-lang/ring/blob/master/applications/tictactoe/TicTacToe.ring) — TicTacToe
+
 ## License
 
 [![npm](https://img.shields.io/npm/l/express.svg)](https://github.com/devmohamedamr/awesome-ring)
