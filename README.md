@@ -2,4 +2,4 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome Ring  resources
+> Useful resources for the [Ring](http://ring-lang.net/) programming language
