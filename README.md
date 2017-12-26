@@ -26,8 +26,8 @@
 
 ### Overview
 
-- [Eta](http://eta-lang.org/) - Official website.
-- [GitHub](https://github.com/typelead/eta) - Eta @ GitHub.
+- [Ring](http://ring-lang.net/) - Official website.
+- [GitHub](https://github.com/ring-lang/ring) - Ring @ GitHub.
  
 ### First Steps
 
