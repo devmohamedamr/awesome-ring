@@ -42,10 +42,10 @@
 
 ## Official Resources
 
-- [Documentation](http://ring-lang.sourceforge.net/doc1.6/index.html) - Ring documentation.
+- [Documentation](http://ring-lang.sourceforge.net/doc1.6/index.html) - :page_with_curl: Ring documentation.
 - [Ring Blog](https://ringprogramming4arab.wordpress.com/) 
-- [Ring Blog](https://watanydev.blogspot.com.eg/2016/02/tutorial-how-to-configure-xampp-to.html) - configure  Xampp / Apache to serve Ring language files.
-- [Ring Basic](https://www.youtube.com/watch?v=uSv5rJp6snw&list=PLgc0fyJgivssosIJu4kJGk5avIjaMzYHK) - Ring Basic Tutorial.
+- [Ring Blog](https://watanydev.blogspot.com.eg/2016/02/tutorial-how-to-configure-xampp-to.html) - :page_with_curl: configure  Xampp / Apache to serve Ring language files.
+- [Ring Basic](https://www.youtube.com/watch?v=uSv5rJp6snw&list=PLgc0fyJgivssosIJu4kJGk5avIjaMzYHK) - :movie_camera: Ring Basic Tutorial.
 
 ## Applications written in Ring
 * [fifteenpuzzle/CalmoSoftFifteenPuzzleGame](https://github.com/ring-lang/ring/blob/master/applications/fifteenpuzzle/CalmoSoftFifteenPuzzleGame.ring) — CalmoSoft Fifteen Puzzle Game 
