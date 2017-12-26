@@ -17,6 +17,8 @@
 - [Introduction](#introduction)
   - [Overview](#overview)
   - [First Steps](#first-steps)
+  - [Community](#Community)
+  - [Official Resources](#Official-Resources)
 
 - [License](#license)
 
@@ -35,22 +37,15 @@
 
 ## Community
 
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/eta) - Eta tag on Stack Overflow.
-- [Google Group](https://groups.google.com/forum/#!forum/eta-discuss) - Eta Google Group.
-- [Gitter](https://gitter.im/typelead/eta) - Gitter channel.
-- [Slack](https://slack.eta-lang.org/) - Slack channel.
-- [IRC](https://kiwiirc.com/client/irc.freenode.net/#eta-lang) - IRC channel.
-- [Bangalore](https://www.meetup.com/Bangalore-Eta-Meetup/) - Bangalore Eta Meetup.
+- [Google Group](https://groups.google.com/forum/#!forum/ring-lang) - Ring Google Group.
+- [Team](http://ring-lang.sourceforge.net/team.html) - Ring team.
 
 ### Official Resources
 
-- [Documentation](http://eta-lang.org/docs/html/) - Eta documentation.
-- [FAQ](http://eta-lang.org/docs/html/faq.html) - Frequently asked questions.
-- [Tour of Eta](https://tour.eta-lang.org/) - Introduction to Eta.
-- [Eta Blog](https://blog.eta-lang.org/https-medium-com-jyothsnasrinivas-the-best-of-both-the-worlds-eta-and-java-part-1-336d181de89d) - Using Eta with Java, part I.
-- [Eta Blog](https://blog.eta-lang.org/the-best-of-both-the-worlds-eta-and-java-part-2-d7cf27acdef7) - Using Eta with Java, part II.
-- [Eta Blog](https://blog.eta-lang.org/eta-in-practice-working-with-haskell-packages-5dfa3dc0c98a) - Using Haskell packages in Eta code.
-- [Eta Blog](https://blog.eta-lang.org/integrating-eta-into-your-scala-projects-a8d494a2c5b0) - Using Eta code in Scala projects.
+- [Documentation](http://ring-lang.sourceforge.net/doc1.6/index.html) - Ring documentation.
+- [Ring Blog](https://blog.eta-lang.org/https-medium-com-jyothsnasrinivas-the-best-of-both-the-worlds-eta-and-java-part-1-336d181de89d) - Using Eta with Java, part I.
+- [Ring Blog](https://blog.eta-lang.org/https-medium-com-jyothsnasrinivas-the-best-of-both-the-worlds-eta-and-java-part-1-336d181de89d) - Using Eta with Java, part I.
+- [Ring Blog](https://blog.eta-lang.org/https-medium-com-jyothsnasrinivas-the-best-of-both-the-worlds-eta-and-java-part-1-336d181de89d) - Using Eta with Java, part I.
 - [Docker Hub](https://hub.docker.com/r/typelead/eta/) - Docker repo for Eta.
 
 ## License
