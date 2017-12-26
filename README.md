@@ -19,7 +19,7 @@
   - [First Steps](#first-steps)
 - [Community](#community)
 - [Official Resources](#official-resources)
-- [Applications written in Ring](#applications-written-in-Ring)
+- [Applications written in Ring](#applications-written-in-ring)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -53,6 +53,10 @@
 * [analogclock/AnalogClock-Image](https://github.com/ring-lang/ring/blob/master/applications/analogclock/AnalogClock-Image.ring) — Analog Clock
 
 * [ring/applications/formdesigner](https://github.com/ring-lang/ring/tree/master/applications/formdesigner) — formdesigner
+
+* [ring/applications/urlshortener/urlshortenermain.ring](https://github.com/ring-lang/ring/blob/master/applications/urlshortener/urlshortenermain.ring) — Google URL Shortener
+
+* [WinStartupManager/WinStartupManager.ring](https://github.com/MajdiSobain/WinStartupManager/blob/master/WinStartupManager.ring) — Windows Startup Manager
 
 ## License
 
