@@ -19,7 +19,7 @@
   - [First Steps](#first-steps)
 - [Community](#community)
 - [Official Resources](#official-resources)
-
+- [Applications written in Ring](#applications-written-in-Ring)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
