@@ -40,14 +40,14 @@
 - [Google Group](https://groups.google.com/forum/#!forum/ring-lang) - Ring Google Group.
 - [Team](http://ring-lang.sourceforge.net/team.html) - Ring team.
 
-### Official Resources
+## Official Resources
 
 - [Documentation](http://ring-lang.sourceforge.net/doc1.6/index.html) - Ring documentation.
 - [Ring Blog](https://ringprogramming4arab.wordpress.com/) 
 - [Ring Blog](https://watanydev.blogspot.com.eg/2016/02/tutorial-how-to-configure-xampp-to.html) - configure  Xampp / Apache to serve Ring language files.
 - [Ring Basic](https://www.youtube.com/watch?v=uSv5rJp6snw&list=PLgc0fyJgivssosIJu4kJGk5avIjaMzYHK) - Ring Basic Tutorial.
 
-### Applications written in Ring
+## Applications written in Ring
 * [fifteenpuzzle/CalmoSoftFifteenPuzzleGame](https://github.com/ring-lang/ring/blob/master/applications/fifteenpuzzle/CalmoSoftFifteenPuzzleGame.ring) — CalmoSoft Fifteen Puzzle Game 
 
 * [analogclock/AnalogClock-Image](https://github.com/ring-lang/ring/blob/master/applications/analogclock/AnalogClock-Image.ring) — Analog Clock
