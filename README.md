@@ -17,8 +17,8 @@
 - [Introduction](#introduction)
   - [Overview](#overview)
   - [First Steps](#first-steps)
-  - [Community](#Community)
-  - [Official Resources](#Official-Resources)
+  - [Community](#community)
+  - [Official Resources](#official-resources)
 
 - [License](#license)
 
