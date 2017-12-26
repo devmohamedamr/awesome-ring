@@ -17,8 +17,8 @@
 - [Introduction](#introduction)
   - [Overview](#overview)
   - [First Steps](#first-steps)
-  - [Community](#community)
-  - [Official Resources](#official-resources)
+- [Community](#community)
+- [Official Resources](#official-resources)
 
 - [License](#license)
 
@@ -43,10 +43,9 @@
 ### Official Resources
 
 - [Documentation](http://ring-lang.sourceforge.net/doc1.6/index.html) - Ring documentation.
-- [Ring Blog](https://blog.eta-lang.org/https-medium-com-jyothsnasrinivas-the-best-of-both-the-worlds-eta-and-java-part-1-336d181de89d) - Using Eta with Java, part I.
-- [Ring Blog](https://blog.eta-lang.org/https-medium-com-jyothsnasrinivas-the-best-of-both-the-worlds-eta-and-java-part-1-336d181de89d) - Using Eta with Java, part I.
-- [Ring Blog](https://blog.eta-lang.org/https-medium-com-jyothsnasrinivas-the-best-of-both-the-worlds-eta-and-java-part-1-336d181de89d) - Using Eta with Java, part I.
-- [Docker Hub](https://hub.docker.com/r/typelead/eta/) - Docker repo for Eta.
+- [Ring Blog](https://ringprogramming4arab.wordpress.com/) 
+- [Ring Blog](https://watanydev.blogspot.com.eg/2016/02/tutorial-how-to-configure-xampp-to.html) - configure  Xampp / Apache to serve Ring language files.
+- [Ring Basic](https://www.youtube.com/watch?v=uSv5rJp6snw&list=PLgc0fyJgivssosIJu4kJGk5avIjaMzYHK) - Ring Basic Tutorial.
 
 ## License
 
