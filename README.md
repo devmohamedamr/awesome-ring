@@ -64,6 +64,12 @@
 
 * [ring/applications/tictactoe/TicTacToe.ring](https://github.com/ring-lang/ring/blob/master/applications/tictactoe/TicTacToe.ring) — TicTacToe
 
+* [ring/applications/ringrepl/replw.ring](https://github.com/ring-lang/ring/blob/master/applications/ringrepl/replw.ring) — Ring REPL
+
+* [AbdelrahmanGIT/RingSamples](https://github.com/AbdelrahmanGIT/RingSamples/blob/master/src/ConvertNumbersToString.ring) — Convert Numbers To String
+
+* [ring/extensions/codegen/parsec.ring](https://github.com/ring-lang/ring/blob/master/extensions/codegen/parsec.ring) — Code Generator for extensions
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
