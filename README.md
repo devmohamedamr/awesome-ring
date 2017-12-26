@@ -31,8 +31,7 @@
  
 ### First Steps
 
-- [Getting Started](http://eta-lang.org/docs/html/getting-started.html) - First steps with Eta.
-- [REPL](http://eta-lang.org/playground.html) - Edit and run Eta code on the web.
+- [Getting Started](http://ring-lang.sourceforge.net/doc1.6/index.html) - First steps with Ring.
 
 ## Community
 
